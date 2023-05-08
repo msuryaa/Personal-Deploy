@@ -1,0 +1,27 @@
+body{
+    background-color: #111;
+    color: #f0f0f0;
+    font-family: poppins,sans-serif;
+    line-height: 1.95;
+}
+h1{
+    font-weight: bold;
+}
+h2{
+    font-weight: bold;
+}
+h3{
+    color: #ffa502;
+}
+h6{
+    color: #9f9f9f;
+    font-weight: 100;
+    font-size: 15px;
+}
+a{
+    color: #ffa502;
+    text-decoration: none;
+}
+p{
+    color: #9f9f9f;
+}
